@@ -42,12 +42,11 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThiagoRAlmeida2&theme=github_dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9)
 
 
-## 📫 How to Reach me:
+## 🔗 Links
 
-<p align="left">
-<a href="https://www.linkedin.com/in/thiago-ribeiro-139727260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/linkedin.svg" alt="ThiagoRAlmeida2" height="30" width="30" /></a>
-<a href="mailto:thiagoralmeida23@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ThiagoRAlmeida2/ThiagoRAlmeida2/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ribeiro-139727260/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoralmeida23@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThiagoRAlmeida2)
 
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
