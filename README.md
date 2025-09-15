@@ -27,7 +27,9 @@
 | **Tecnologias de Front-End**                     | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) |
 | **Bancos de Dados e Armazenamento**               | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
 | **Ferramentas de Machine Learning**               | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
+| **Infraestrutura como Código**                    | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) ![OpenTofu](https://img.shields.io/badge/-OpenTofu-4B4B4B?style=flat&logo=terraform)            |
 | **Controle de Versão e Colaboração**               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
+
 
 <!--   Profile Summary -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoRAlmeida2&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
