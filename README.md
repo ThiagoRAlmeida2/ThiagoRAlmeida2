@@ -16,20 +16,23 @@
 <!--   my-ticker -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Oi,+eu+sou+Thiago+Ribeiro;+Bem-vindo+ao+meu+perfil!;+Eu+sou+um+estudante+apaixonado+por+programação;+Interesses+em+física,+back-end+e+frameworks)](https://git.io/typing-svg)
 
-
-
-<!--   my-skils -->
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 60px>
-
-| Propriedade                                     | Dados                                                                                             |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Linguagens e IDEs**                            | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm) |
-| **Tecnologias de Front-End**                     | ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E34F26?style=flat&logo=html5) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) |
-| **Bancos de Dados e Armazenamento**               | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server)     |
-| **Ferramentas de Machine Learning**               | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat&logo=orange) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat&logo=weka)                                 |
-| **Infraestrutura como Código**                    | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) ![OpenTofu](https://img.shields.io/badge/-OpenTofu-4B4B4B?style=flat&logo=terraform)            |
-| **Controle de Versão e Colaboração**               | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)                                       |
-
+ 
+## 🛠️ Stack & Ferramentas
+ 
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **💻 Linguagens** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart) |
+| **🖥️ IDEs** | ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm) ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=flat&logo=phpstorm) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) |
+| **⚙️ Back-End Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) |
+| **🎨 Front-End** | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter) |
+| **🗄️ Bancos de Dados** | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server) |
+| **☁️ Cloud & Deploy** | ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat&logo=railway) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel) |
+| **🐳 Containers & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform) ![OpenTofu](https://img.shields.io/badge/-OpenTofu-4B4B4B?style=flat&logo=terraform) |
+| **📊 Monitoramento** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![UptimeRobot](https://img.shields.io/badge/-UptimeRobot-3BD671?style=flat&logo=uptimerobot&logoColor=white) |
+| **🤖 Machine Learning** | ![Orange](https://img.shields.io/badge/-Orange-FFA500?style=flat) ![Weka](https://img.shields.io/badge/-Weka-469A1F?style=flat) |
+| **🔧 Controle de Versão** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) |
+ 
+---
 
 <!--   Profile Summary -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiagoRAlmeida2&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
